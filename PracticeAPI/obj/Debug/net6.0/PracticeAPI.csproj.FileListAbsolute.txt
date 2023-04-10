@@ -1,0 +1,204 @@
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\appsettings.json
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\PracticeAPI.exe
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\PracticeAPI.deps.json
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\PracticeAPI.runtimeconfig.json
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\PracticeAPI.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\PracticeAPI.pdb
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\EntityFramework.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Humanizer.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\obj\Debug\net6.0\PracticeAPI.csproj.AssemblyReference.cache
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\obj\Debug\net6.0\PracticeAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\obj\Debug\net6.0\PracticeAPI.AssemblyInfoInputs.cache
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\obj\Debug\net6.0\PracticeAPI.AssemblyInfo.cs
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\obj\Debug\net6.0\PracticeAPI.csproj.CoreCompileInputs.cache
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\obj\Debug\net6.0\PracticeAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\obj\Debug\net6.0\PracticeAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\obj\Debug\net6.0\staticwebassets\msbuild.PracticeAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.PracticeAPI.props
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PracticeAPI.props
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PracticeAPI.props
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\obj\Debug\net6.0\scopedcss\bundle\PracticeAPI.styles.css
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\obj\Debug\net6.0\PracticeAPI.csproj.CopyComplete
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\obj\Debug\net6.0\PracticeAPI.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\obj\Debug\net6.0\refint\PracticeAPI.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\obj\Debug\net6.0\PracticeAPI.pdb
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\obj\Debug\net6.0\PracticeAPI.genruntimeconfig.cache
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\obj\Debug\net6.0\ref\PracticeAPI.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Common.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Models.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Common.pdb
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Models.pdb
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Practices.ServiceLocation.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\VanHocAPTECH\T2111E_Sem3\CSharp\PracticeAPI\PracticeAPI\bin\Debug\net6.0\XAct.Core.PCL.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\PracticeAPI.exe
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\PracticeAPI.deps.json
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\PracticeAPI.runtimeconfig.json
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\PracticeAPI.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\PracticeAPI.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Practices.ServiceLocation.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\XAct.Core.PCL.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Common.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Models.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Common.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\bin\Debug\net6.0\Models.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\obj\Debug\net6.0\PracticeAPI.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\obj\Debug\net6.0\PracticeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\obj\Debug\net6.0\PracticeAPI.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\obj\Debug\net6.0\PracticeAPI.AssemblyInfo.cs
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\obj\Debug\net6.0\PracticeAPI.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\obj\Debug\net6.0\PracticeAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\obj\Debug\net6.0\PracticeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\obj\Debug\net6.0\staticwebassets\msbuild.PracticeAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.PracticeAPI.props
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PracticeAPI.props
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PracticeAPI.props
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\obj\Debug\net6.0\scopedcss\bundle\PracticeAPI.styles.css
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\obj\Debug\net6.0\PracticeAPI.csproj.CopyComplete
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\obj\Debug\net6.0\PracticeAPI.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\obj\Debug\net6.0\refint\PracticeAPI.dll
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\obj\Debug\net6.0\PracticeAPI.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\obj\Debug\net6.0\PracticeAPI.genruntimeconfig.cache
+C:\Users\ASUS\Documents\Zalo Received Files\kt\PracticeAPI\PracticeAPI\obj\Debug\net6.0\ref\PracticeAPI.dll
